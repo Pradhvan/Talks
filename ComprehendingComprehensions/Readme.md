@@ -12,7 +12,7 @@
 
 ### Problem Statement to practice
 
-Write a function that accepts two lists-of-lists of numbers and returns one list-of-lists with each of the corresponding numbers in the two given lists-of-lists added together. Hint: List Comprehensions might come in handy today.
+Write a function that accepts two lists-of-lists of numbers and returns one list-of-lists with each of the corresponding numbers in the two given lists-of-lists added together. Hint: List Comprehensions might come in handy.
 
 It should work something like this:
 
