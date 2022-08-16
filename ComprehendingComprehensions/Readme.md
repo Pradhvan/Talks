@@ -35,5 +35,5 @@ It should work something like this:
 
 ### Credits
 
-* [Trey Hunner's](https://treyhunner.com/) and [https://www.pythonmorsels.com/](https://www.pythonmorsels.com/)
+* [Trey Hunner's](https://treyhunner.com/) and [PythonMorsels](https://www.pythonmorsels.com/)
 * [Rodrigo's](https://twitter.com/mathsppblog) book [Comprehending Comprehensions](https://mathspp.gumroad.com/l/comprehending-comprehensions)
